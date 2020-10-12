@@ -2,6 +2,8 @@
 
 I am a Ethical Hacker, Programmer & Web Developer who just love to code in python | Known Programming Languages : Python, Java, PHP, C#, C, JavaScript. 
 
+Decent in Bash Scripting & also Just Love to Make those things which breaks things.
+
 - 👨🏽‍💻 Currently working as a Bug Bounty Hunter on BugCrowd.
 - 🤝 Open for collaborations for Ethical Hacking Tools
 - 😊 Willing to contribute in opensource development projects. 

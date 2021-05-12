@@ -8,6 +8,7 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 - 🤝 Open for collaborations for Ethical Hacking Tools
 - 😊 Willing to contribute in opensource development projects. 
 - 📫 How to reach me: singhpushpender250@gmail.com
+- 👨‍💻 How to **Hire me** for any type of project: singhpushpender250@gmail.com
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>

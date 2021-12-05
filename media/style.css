@@ -1,0 +1,22 @@
+@media screen and (max-width: 767px){   
+    img{      
+        height:50%; 
+        width: 50%;
+        /* Mobile */
+    } 
+}
+
+@media screen and (min-width: 768px) {      
+    img{      
+        height:50%; 
+        width: 50%;
+        /* Tablet */
+    } 
+} 
+@media (min-width: 992px){      
+    img{      
+        height:20%; 
+        width: 20%;
+        /* Desktop */
+    } 
+}

@@ -1,14 +1,22 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Pushpender Singh! 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Pushpender Singh! </h1>
 
-I am a Ethical Hacker, Programmer & Web Developer who just love to code in Python.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Ethical+Hacker;Programmer;InfoSec+Content+Creator;Web+Developer;Proud+Indian)](https://git.io/typing-svg)
 
-Known Programming Languages : Python, Java, PHP, C#, C, C++, JavaScript.
+<p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
+
+I'm a Ethical Hacker, Programmer & a Web Developer who just love to code in Python.
+
+| ![Known Programming Languages](https://img.shields.io/badge/Known-Programming%20Languages%20:%20-brightgreen?&style=plastic) | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/python.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/php.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/c.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/c++.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/c-sharp.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/java.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/JS.png?raw=true" height="40" width="40"> |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Known Web Development Technologies](https://img.shields.io/badge/Known-WebDev%20Technologies%20%20%20%20%20%20:%20-brightgreen?&style=plastic) | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/html.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/css.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/bootstrap.png?raw=true" height="40" width="40"> |
+| ![Known Database Technologies](https://img.shields.io/badge/Known-Database%20Technologies%20%20%20%20:%20-brightgreen?&style=plastic) | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/sql.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/postgres.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/mongodb.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/git.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/vs.png?raw=true" height="40" width="40"> |
+| ![Known Development Utilities](https://img.shields.io/badge/Known-Development%20Utilities%20%20%20%20%20%20:%20-brightgreen?&style=plastic) | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/git.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/vs.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/vim.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/atom.png?raw=true" height="40" width="40"> | <img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/jupyter-notebook.png?raw=true" height="40" width="40">
 
 Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
 
-I've a InfoSec YouTube Channel with more than [<img src = "https://img.shields.io/badge/10.5k-Subscriber-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
+I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/badge/10.5k-Subscriber-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
 
-- 👨🏽‍💻 Currently working as a Bug Bounty Hunter on BugCrowd.
+- 👨🏽‍💻 I'm Top Rated Freelancer on Upwork. Currently Working as Software Developer & Automation Engineer.
 - 🤝 Open for collaborations for Ethical Hacking Tools
 - 😊 Willing to contribute in opensource development projects. 
 - 📫 How to reach me: singhpushpender250@gmail.com

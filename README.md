@@ -1,6 +1,8 @@
-## Hi 👋 I am Pushpender Singh! 
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Pushpender Singh! 
 
-I am a Ethical Hacker, Programmer & Web Developer who just love to code in python | Known Programming Languages : Python, Java, PHP, C#, C, C++, JavaScript. 
+I am a Ethical Hacker, Programmer & Web Developer who just love to code in Python.
+
+Known Programming Languages : Python, Java, PHP, C#, C, C++, JavaScript.
 
 Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
 

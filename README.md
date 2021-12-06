@@ -36,7 +36,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 
 <details open>
-<summary>🔴<b> Live YouTube Channel Stats</b></summary>
+<summary>🔴<b> Live YouTube Channel Stats</b> (Automatically Updates Every 60 seconds)</summary>
  
 - [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-badge-deploy.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi)
  

@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Pushpender Singh! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Ethical+Hacker;Programmer;InfoSec+Content+Creator;Web+Developer;Proud+Indian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Ethical+Hacker;Programmer;InfoSec+Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
@@ -29,7 +29,7 @@ Here is list of technologies which I've learned so far : )
 
 I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/badge/10.6k-Subscriber-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
 
-- 👨🏽‍💻 I'm Top Rated Freelancer on Upwork. Currently Working as Software Developer & Automation Engineer.
+- 👨🏽‍💻 I'm Top Rated Freelancer on Upwork. Currently Working as a Software Developer & Automation Engineer.
 - 🤝 Open for collaborations for Ethical Hacking Tools
 - 😊 Willing to contribute in opensource development projects. 
 - 📫 How to reach me: singhpushpender250@gmail.com

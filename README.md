@@ -27,7 +27,7 @@ Here is list of technologies which I've learned so far : )
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/JS.png?raw=true" height="20%" width="20%"></p>     |                                                                                                                                                        |                                                                                                                                                        |  |    
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/golang.png?raw=true" height="20%" width="20%"></p>     |                                                                                                                                                        |                                                                                                                                                        |  |    
 
-I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-badge-deploy.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
+I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
 
 - 👨🏽‍💻 I'm Top Rated Freelancer on Upwork. Currently Working as a Software Developer & Automation Engineer.
 - 🤝 Open for collaborations for Ethical Hacking Tools
@@ -38,11 +38,11 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <details open>
 <summary>🔴<b> Live YouTube Channel Stats</b> (Automatically Updates Every 60 seconds)</summary>
  
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-badge-deploy.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi)
+- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi)
  
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-badge-deploy.vercel.app%2Fapi%2Fviews">](https://www.youtube.com/c/CyberAcademyHindi)
+- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fviews">](https://www.youtube.com/c/CyberAcademyHindi)
  
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-badge-deploy.vercel.app%2Fapi%2Fvideos">](https://www.youtube.com/c/CyberAcademyHindi)
+- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fvideos">](https://www.youtube.com/c/CyberAcademyHindi)
 </details>
 
 <details open>

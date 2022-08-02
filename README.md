@@ -32,7 +32,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 
 - 👨🏽‍💻 I'm Top Rated Freelancer on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387). 
 - 🤝 Anyways open for any type of collaboration.
-- 😊 Willing to contribute in opensource development projects. 
+- 😊 Willing to contribute in opensource projects. 
 - 📫 How to reach me: singhpushpender250@gmail.com
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 

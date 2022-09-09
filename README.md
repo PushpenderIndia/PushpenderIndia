@@ -55,9 +55,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src = "https://img.shields.io/badge/upwork-top%20rated%20freelancer-%2373BB44.svg?&style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/PushpenderIndia/PushpenderIndia?style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
+[![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 
 </p>
 
@@ -66,7 +64,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 ---
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>GitHub Stats</b> </summary>
 
 <br>
 

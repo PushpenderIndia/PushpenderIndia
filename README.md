@@ -10,14 +10,11 @@ I'm a Ethical Hacker, Programmer & a Web Developer who just love to code in Pyth
 
 Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
 
-Here is list of technologies which I've learned so far : )
+- List of Technologies Which I've Learned so far : )
 
-![Known Programming Languages](https://img.shields.io/badge/Known-Programming%20Languages%20:%20-brightgreen?&style=plastic)
-![Known Web Development Technologies](https://img.shields.io/badge/Known-WebDev%20Technologies%20%20%20%20%20%20:%20-brightgreen?&style=plastic)
-![Known Database Technologies](https://img.shields.io/badge/Known-Database%20Technologies%20%20%20%20:%20-brightgreen?&style=plastic)
-![Known Development Utilities](https://img.shields.io/badge/Known-Development%20Utilities%20%20%20%20%20%20:%20-brightgreen?&style=plastic)
 | Prog.Lang | Web.Dev | DB.Tech | Dev.Utils |
 | -- | -- | -- | -- |
+| ![Known Programming Languages](https://img.shields.io/badge/Known-Programming%20Languages-brightgreen?&style=plastic) | ![Known Web Development Technologies](https://img.shields.io/badge/Known-WebDev%20Technologies%20%20%20%20%20-brightgreen?&style=plastic) | ![Known Database Technologies](https://img.shields.io/badge/Known-Database%20Technologies%20%20%20-brightgreen?&style=plastic) | ![Known Development Utilities](https://img.shields.io/badge/Known-Development%20Utilities%20%20%20%20%20-brightgreen?&style=plastic) |
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/python.png?raw=true" height="20%" width="20%"></p> | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/html.png?raw=true" height="20%" width="20%"></p>      | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/sql.png?raw=true" height="20%" width="20%"></p>       | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/git.png?raw=true" height="20%" width="20%"></p>              |
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/php.png?raw=true" height="20%" width="20%"></p>    | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/css.png?raw=true" height="20%" width="20%"></p>       | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/postgres.png?raw=true" height="20%" width="20%"></p>  | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/vs.png?raw=true" height="20%" width="20%"></p>               |
 | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/c.png?raw=true" height="20%" width="20%"></p>      | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/bootstrap.png?raw=true" height="20%" width="20%"></p> | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/mongodb.png?raw=true" height="20%" width="20%"></p>   | <p align="center"><img src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/logos/vim.png?raw=true" height="20%" width="20%"></p>              |

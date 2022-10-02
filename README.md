@@ -32,6 +32,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 😊 Willing to contribute in opensource projects. 
 - 📫 How to reach me: singhpushpender250@gmail.com
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
+- 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
 
 <details open>
 <summary>🔴<b> Live YouTube Channel Stats</b> (Automatically Updates Every 60 seconds)</summary>
@@ -52,6 +53,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src = "https://img.shields.io/badge/upwork-top%20rated%20freelancer-%2373BB44.svg?&style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pushpenderindia/)
 [![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 
 </p>

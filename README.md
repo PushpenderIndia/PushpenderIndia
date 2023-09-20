@@ -69,7 +69,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&rank_icon=percentile&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia/&rank_icon=percentile&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
 </p>
 

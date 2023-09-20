@@ -69,7 +69,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&rank_icon=percentile &show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
 </p>
 
@@ -82,7 +82,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
  <br> 
   
 <p align = "center">
-<a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&rank_icon=percentile&repo=thorse" /></a> <a href = "https://github.com/PushpenderIndia/technowlogger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=technowlogger" /></a> </p>
+<a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> <a href = "https://github.com/PushpenderIndia/technowlogger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=technowlogger" /></a> </p>
 
 </details>
 

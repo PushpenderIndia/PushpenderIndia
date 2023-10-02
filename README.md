@@ -12,8 +12,6 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 
 - List of Technologies Which I've Learned so far : )
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-
 | Category        | Skills        |
 |-----------------|---------------|
 | Languages       | <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=8993be"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C--Sharp-00599C?style=for-the-badge&logo=c#&logoColor=white"/> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=kotlin&logoColor=white" /> |

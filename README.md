@@ -52,11 +52,13 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <p align = "center">
  
 [<img src = "https://img.shields.io/badge/youtube-Cyber%20Academy-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/c/CyberAcademyHindi)
-[<img src = "https://img.shields.io/badge/upwork-top%20rated%20freelancer-%2373BB44.svg?&style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
+[<img src = "https://img.shields.io/badge/upwork-top%20rated%20freelancer%20%28Top%2010%25%29-%2373BB44.svg?&style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
+[<img src="https://img.shields.io/badge/quine-Global%20DevRank%20Top%201%25-%239fff45.svg?&style=for-the-badge&logo=quine.sh&logoColor=white" />](https://quine.sh/user/PushpenderIndia)
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pushpenderindia/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
- [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
+[<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
+[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://www.leetcode.com/pushpenderindia)
 [![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 
 </p>

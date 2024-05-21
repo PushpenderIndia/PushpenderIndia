@@ -60,7 +60,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
-[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://www.leetcode.com/pushpenderindia)
+[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/pushpenderindia/)
 [![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 
 </p>
@@ -88,7 +88,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
  <br> 
   
 <p align = "center">
-<a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> <a href = "https://github.com/PushpenderIndia/technowlogger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=technowlogger" /></a> </p>
+<a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> <a href = "https://github.com/PushpenderIndia/Sinister"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=Sinister" /></a> </p>
 
 </details>
 

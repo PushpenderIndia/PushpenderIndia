@@ -61,6 +61,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
 [<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/pushpenderindia/)
+[<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/pushpenderindia/)
 [![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 
 </p>

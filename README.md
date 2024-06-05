@@ -78,7 +78,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
-  <img src = "https://leetcard.jacoblin.cool/pushpenderindia?site=us&ext=heatmap">
+  <img src = "https://leetcard.jacoblin.cool/pushpenderindia?site=us">
 </p>
 
 </details>

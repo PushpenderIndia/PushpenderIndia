@@ -6,7 +6,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a Ethical Hacker, Web, Android & Software Developer who just love to code in Python.
+I'm a Ethical Hacker, Web, Android, Machine Learning & Software Developer who just love to code in Python.
 
 Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
 
@@ -77,26 +77,21 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 
 <details open>
  <summary><b>GitHub, Leetcode & Stackoverflow Stats</b> </summary>
-
 <br>
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
   <img src = "https://leetcard.jacoblin.cool/pushpenderindia?site=us">
   <img src = "https://stackoverflow-badge.herokuapp.com/stackoverflow?username=12084352&period=year">
 </p>
-
 </details>
-
-
 
 <details open> 
  <summary><b>Famous Repos</b></summary>
  <br> 
-  
 <p align = "center">
-<a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> <a href = "https://github.com/PushpenderIndia/Sinister"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=Sinister" /></a> </p>
-
+  <a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> 
+  <a href = "https://github.com/PushpenderIndia/Sinister"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=Sinister" /></a> 
+</p>
 </details>
 

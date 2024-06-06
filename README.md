@@ -72,7 +72,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 ---
 
 <details open>
- <summary><b>GitHub & Leetcode Stats</b> </summary>
+ <summary><b>GitHub, Leetcode & Stackoverflow Stats</b> </summary>
 
 <br>
 
@@ -80,6 +80,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
   <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
   <img src = "https://leetcard.jacoblin.cool/pushpenderindia?site=us">
+  <img src = "https://stackoverflow-badge.herokuapp.com/stackoverflow?username=12084352&period=year">
 </p>
 
 </details>

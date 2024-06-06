@@ -44,12 +44,11 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 
 <details open>
 <summary>🔴<b> Live YouTube Channel Stats</b> (Automatically Updates Every 60 seconds)</summary>
- 
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi)
- 
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fviews">](https://www.youtube.com/c/CyberAcademyHindi)
- 
-- [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fvideos">](https://www.youtube.com/c/CyberAcademyHindi)
+<p align = "center">
+  
+[<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fviews">](https://www.youtube.com/c/CyberAcademyHindi) [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fvideos">](https://www.youtube.com/c/CyberAcademyHindi)
+
+</p>
 </details>
 
 <details open>

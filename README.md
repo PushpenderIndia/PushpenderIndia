@@ -29,10 +29,13 @@ Decent in Bash Scripting & also Just Love to Make those things which breaks thin
 
 I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my Cyber Security & Ethical Hacking Knowledge 
 
-- 👨🏽‍💻 I'm Top Rated Freelancer on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) (Top 10% Talent).
-- 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank Top 1%
-- 🤝 Always open for any type of collaboration.
-- 😊 Willing to contribute in opensource projects. 
+- 🏆 Top Rated Freelancer - `Top 10% talent` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
+- 🏅 Maintained `100% JSS` (Job Success Score) on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
+- 🏅 Worked with `50+ Clients` 
+- 🏅 Worked `640+ Hours` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) Hourly Contracts
+- 🏅 Always `Received 5 ⭐ Review`
+- 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank `Top 1%`
+- 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/pushpenderindia/) on [Leetcode](https://leetcode.com/pushpenderindia)
 - 📫 How to reach me: pushpendersingh@protonmail.com (**Telegram**: @pushpenderindia)
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
@@ -49,7 +52,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 </details>
 
 <details open>
-<summary>🤝 <b>To connect with me</b></summary>
+<summary>🤝 <b>Connect with me</b></summary>
 
 <p align = "center">
  

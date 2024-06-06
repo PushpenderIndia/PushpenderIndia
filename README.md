@@ -6,7 +6,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a Ethical Hacker, Web, Android, Machine Learning & Software Developer who just love to code in Python.
+I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Developer` who just love to code in Python.
 
 Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
 

@@ -8,8 +8,6 @@
 
 I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Developer` who just love to code in Python.
 
-Decent in Bash Scripting & also Just Love to Make those things which breaks things. 
-
 - List of Technologies Which I've Learned so far : )
 
 | Category        | Skills        |

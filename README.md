@@ -37,6 +37,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank `Top 1%`
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/pushpenderindia/) on [Leetcode](https://leetcode.com/pushpenderindia)
 - 🏆 `4x Hackathon Winner` & `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
+- 👨🏽‍💻  `Reputation Points`, `Bronze & Silver Badge Count` on [Stackoverflow](https://stackoverflow.com/users/12084352/pushpender-singh): <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=12084352" />
 - 📫 How to reach me: pushpendersingh@protonmail.com (**Telegram**: @pushpenderindia)
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
@@ -75,13 +76,12 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 ---
 
 <details open>
- <summary><b>GitHub, Leetcode & Stackoverflow Stats</b> </summary>
+ <summary><b>GitHub, Leetcode Stats</b> </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
   <img src = "https://leetcard.jacoblin.cool/pushpenderindia?site=us">
-  <img src = "https://stackoverflow-badge.herokuapp.com/stackoverflow?username=12084352&period=year">
 </p>
 </details>
 

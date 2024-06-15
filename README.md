@@ -29,7 +29,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 
 - 🏆 Top Rated Freelancer - `Top 10% talent` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 🏅 Maintained `100% JSS` (Job Success Score) on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
-- 🏅 Worked with `50+ Clients` 
+- 🏅 Worked with `50+ Clients` (43+ on Upwork & Other Direct Clients)
 - 🏅 Worked `640+ Hours` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) Hourly Contracts
 - 🏅 Always `Received 5 ⭐ Review`
 - 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank `Top 1%`

@@ -8,8 +8,9 @@
 
 I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Developer` who just love to code in Python.
 
-I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) where I use to share my `Cyber Security` & `Ethical Hacking` Knowledge 
+I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than [<img src = "https://img.shields.io/endpoint?&style=for-the-badge&color=E4405F&style=plastic&url=https%3A%2F%2Fyoutube-stats-badge.vercel.app%2Fapi%2Fsubscriber">](https://www.youtube.com/c/CyberAcademyHindi) where I teach `Cyber Security` & `Ethical Hacking` 
 
+- 🏆 `4x Hackathon Winner` & `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
 - 🏆 Top Rated Freelancer - `Top 10% talent` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 🏅 Maintained `100% JSS` (Job Success Score) on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 🏅 Worked with `50+ Clients` (43+ on Upwork & Other Direct Clients)
@@ -17,7 +18,6 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 🏅 Always `Received 5 ⭐ Review`
 - 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank `Top 1%`
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/pushpenderindia/) on [Leetcode](https://leetcode.com/pushpenderindia)
-- 🏆 `4x Hackathon Winner` & `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
 - 👨🏽‍💻  `Reputation Points`, `Bronze & Silver Badge Count` on [Stackoverflow](https://stackoverflow.com/users/12084352/pushpender-singh): <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=12084352" />
 - 📫 How to reach me: pushpendersingh@protonmail.com (**Telegram**: @pushpenderindia)
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)

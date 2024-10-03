@@ -71,6 +71,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/pushpenderindia/)
 [<img src="https://img.shields.io/badge/codechef-%23964B00.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/pushu_singh)
 [<img src="https://img.shields.io/badge/codeforces-%23FFFF00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/pushpenderindia)
+[<img src="https://img.shields.io/badge/code360-%23FFA500.svg?&style=for-the-badge&logo=codingninja&logoColor=white" />](https://www.naukri.com/code360/profile/pushpenderindia)
 [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/pushpenderindia)
 [![Visits Badge](https://komarev.com/ghpvc/?username=PushpenderIndia&style=for-the-badge)](https://github.com/PushpenderIndia/PushpenderIndia)
 

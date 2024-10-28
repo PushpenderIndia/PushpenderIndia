@@ -16,6 +16,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 🏅 Worked with `50+ Clients` (43+ on Upwork & Other Direct Clients)
 - 🏅 Worked `640+ Hours` on [Upwork Hourly Contracts](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) 
 - 🏅 Always `Received 5 ⭐ Review`
+- 🏅 Worked with FORTUNE 500 Companies such as Microsoft as Independent Freelancer
 - 👨🏽‍💻 Amazon ML Summer School 2024
 - 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank `Top 1%`
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushpenderindia/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushpenderindia/) on [Leetcode](https://leetcode.com/pushpenderindia)

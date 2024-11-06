@@ -19,7 +19,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 🏅 Worked with `FORTUNE 500 Companies` such as `Microsoft` as Independent Freelancer
 - 👨🏽‍💻 Amazon ML Summer School 2024
 - 👨🏽‍💻 Global [Quine](https://quine.sh/user/PushpenderIndia) DevRank `Top 1%`
-- 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushpenderindia/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushpenderindia/) on [Leetcode](https://leetcode.com/pushpenderindia)
+- 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/1234batman1234/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushpenderindia&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/1234batman1234/) on [Leetcode](https://leetcode.com/1234batman1234)
 - 👨🏽‍💻  `Reputation Points`, `Bronze & Silver Badge Count` on [Stackoverflow](https://stackoverflow.com/users/12084352/pushpender-singh): <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=12084352" />
 - 📫 How to reach me: pushpendersingh@protonmail.com (**Telegram**: @pushpenderindia)
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
@@ -68,7 +68,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/stackoverflow-%23F47F24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/12084352/pushpender-singh)
-[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/pushpenderindia/)
+[<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/1234batman1234/)
 [<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/pushpenderindia/)
 [<img src="https://img.shields.io/badge/codechef-%23964B00.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/pushu_singh)
 [<img src="https://img.shields.io/badge/codeforces-%23FFFF00.svg?&style=for-the-badge&logo=codeforces&logoColor=white" />](https://codeforces.com/profile/pushpenderindia)
@@ -88,7 +88,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
-  <img src = "https://leetcard.jacoblin.cool/pushpenderindia?site=us">
+  <img src = "https://leetcard.jacoblin.cool/1234batman1234?site=us">
 </p>
 </details>
 

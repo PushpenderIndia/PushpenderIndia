@@ -21,6 +21,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 👨🏽‍💻 Global [Quira](https://quira.sh/user/PushpenderIndia) DevRank `Top 1%`
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F1234batman1234&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/1234batman1234/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F1234batman1234&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/1234batman1234/) on [Leetcode](https://leetcode.com/1234batman1234)
 - 👨🏽‍💻 6 Star ⭐ Coder - CodeChef Contest Rating: `2224+`
+- 👨🏽‍💻 Specialist on [Codeforces](https://codeforces.com/profile/pushpenderindia)
 - 👨🏽‍💻  `Reputation Points`, `Bronze & Silver Badge Count` on [Stackoverflow](https://stackoverflow.com/users/12084352/pushpender-singh): <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=12084352" />
 - 📫 How to reach me: pushpendersingh@protonmail.com (**Telegram**: @pushpenderindia)
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)

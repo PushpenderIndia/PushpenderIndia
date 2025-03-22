@@ -26,7 +26,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 📫 How to reach me: pushpendersingh@protonmail.com (**Telegram**: @pushpenderindia)
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
-- 💻 Learn DSA for FREE: [AlgoArena](https://algoarena.witeso.com/)
+- 💻 Learn DSA for FREE: [Witeso](https://witeso.com/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 

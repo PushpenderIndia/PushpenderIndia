@@ -23,7 +23,6 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushu_singh&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushu_singh/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushu_singh&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushu_singh/) on [Leetcode](https://leetcode.com/pushu_singh)
 - 👨🏽‍💻  `Reputation Points`, `Bronze & Silver Badge Count` on [Stackoverflow](https://stackoverflow.com/users/12084352/pushpender-singh): <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=12084352" />
 - 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
-- 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/pushpenderindia/)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -63,8 +62,6 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src = "https://img.shields.io/badge/youtube-Cyber%20Academy-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/c/CyberAcademyHindi)
 [<img src = "https://img.shields.io/badge/upwork-top%20rated%20freelancer%20%28Top%2010%25%29-%2373BB44.svg?&style=for-the-badge&logo=upwork&logoColor=white">](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 [<img src="https://img.shields.io/badge/quine-Global%20DevRank%20Top%201%25-%239fff45.svg?&style=for-the-badge&logo=quine.sh&logoColor=white" />](https://quine.sh/user/PushpenderIndia)
-[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pushpenderindia/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PushpenderIndia) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/stackoverflow-%23F47F24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/12084352/pushpender-singh)
 [<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/pushu_singh/)

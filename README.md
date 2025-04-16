@@ -17,6 +17,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 🏅 Worked `700+ Hours` on [Upwork Hourly Contracts](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) 
 - 🏅 Always `Received 5 ⭐ Review`
 - 🏅 Worked with `FORTUNE 500 Companies` such as `Microsoft` as Independent Freelancer
+- 👨🏽‍💻 [WordPress](https://profiles.wordpress.org/pushpenderindia/) Core Contributor
 - 👨🏽‍💻 Amazon ML Summer School 2024
 - 👨🏽‍💻 Global [Quira](https://quira.sh/user/PushpenderIndia) DevRank `Top 1%`
 - 👨🏽‍💻 Expert on [Codeforces](https://codeforces.com/profile/pushpenderindia)
@@ -65,6 +66,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 [<img src="https://img.shields.io/badge/quine-Global%20DevRank%20Top%201%25-%239fff45.svg?&style=for-the-badge&logo=quine.sh&logoColor=white" />](https://quine.sh/user/PushpenderIndia)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@PushpenderIndia)
 [<img src="https://img.shields.io/badge/stackoverflow-%23F47F24.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/12084352/pushpender-singh)
+[<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />](https://profiles.wordpress.org/pushpenderindia/)
 [<img src="https://img.shields.io/badge/leetcode-%23a8a832.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/u/pushu_singh/)
 [<img src="https://img.shields.io/badge/geeksforgeeks-%232c9c10.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://www.geeksforgeeks.org/user/pushpenderindia/)
 [<img src="https://img.shields.io/badge/codechef-%23964B00.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](#)

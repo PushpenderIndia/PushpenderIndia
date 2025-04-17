@@ -17,6 +17,7 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 🏅 Worked `700+ Hours` on [Upwork Hourly Contracts](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) 
 - 🏅 Always `Received 5 ⭐ Review`
 - 🏅 Worked with `FORTUNE 500 Companies` such as `Microsoft` as Independent Freelancer
+- 🏅 Unstop Talend Award Winner: [Certificates](https://github.com/PushpenderIndia/Achievements)
 - 👨🏽‍💻 [WordPress](https://profiles.wordpress.org/pushpenderindia/) Core Contributor - [WordPress Release v6.8 Contributors list](https://lnkd.in/gJqBq4-W)
 - 👨🏽‍💻 Amazon ML Summer School 2024
 - 👨🏽‍💻 Global [Quira](https://quira.sh/user/PushpenderIndia) DevRank `Top 1%`

@@ -28,6 +28,16 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+- List of `Python Modules` Build my me ; )
+  
+  | Module name | PyPi Link | Version | Total Downloads | Per Month Downloads |
+  |-------------|-----------|---------|-----------------|---------------------|
+  | EasyFlaskRecaptcha | https://pypi.org/project/EasyFlaskRecaptcha/ | <a href="https://pypi.org/project/easyflaskrecaptcha/"><img alt="pypi" src="https://img.shields.io/pypi/v/easyflaskrecaptcha.svg"></a> | <img alt="Downloads" src="https://pepy.tech/badge/easyflaskrecaptcha"> | <img alt="Downloads" src="https://pepy.tech/badge/easyflaskrecaptcha/month"> |
+  | Ragno | https://pypi.org/project/Ragno/ | <a href="https://pypi.org/project/ragno/"><img alt="pypi" src="https://img.shields.io/pypi/v/ragno.svg"></a> | <img alt="Downloads" src="https://pepy.tech/badge/ragno"> | <img alt="Downloads" src="https://pepy.tech/badge/ragno/month"> |
+  | Log4jScanner | https://pypi.org/project/Log4jScanner/ | <a href="https://pypi.org/project/Log4jScanner/"><img alt="pypi" src="https://img.shields.io/pypi/v/Log4jScanner.svg"></a> | <img alt="Downloads" src="https://pepy.tech/badge/Log4jScanner"> | <img alt="Downloads" src="https://pepy.tech/badge/Log4jScanner/month"> |
+  | Universal Scraper | https://pypi.org/project/universal-scraper | <a href="https://pypi.org/project/universal-scraper"><img alt="pypi" src="https://img.shields.io/pypi/v/universal-scraper.svg"></a> | <img alt="Downloads" src="https://pepy.tech/badge/universal-scraper"> | <img alt="Downloads" src="https://pepy.tech/badge/universal-scraper/month"> |
+   
+
 - List of Technologies Which I've Learned so far : )
 
 | Category        | Skills        |

@@ -10,7 +10,7 @@ I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Develop
 
 I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than `25k subscribers` where I teach `Cyber Security` & `Ethical Hacking` 
 
-- 🏆 `9x Global Hackathon Winner` & `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
+- 🏆 `10x Global Hackathon Winner` & `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
 - 🏆 Top Rated Freelancer - `Top 10% talent` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 🏅 Maintained `100% JSS` (Job Success Score) on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 - 🏅 Worked with `50+ Clients` (43+ on Upwork & Other Direct Clients)

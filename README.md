@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Pushpender Singh! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=root@kali:~/++whoami;Ethical+Hacker;Programmer;InfoSec+Content+Creator;And+A+Web+Developer)](https://git.io/typing-svg)
-
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
 I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Developer` who just love to code in Python.

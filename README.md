@@ -93,8 +93,8 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
  <summary><b>Famous Repos</b></summary>
  <br> 
 <p align = "center">
-  <a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> 
-  <a href = "https://github.com/PushpenderIndia/Sinister"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PushpenderIndia&repo=Sinister" /></a> 
+  <a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats-dusky-three-43.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> 
+  <a href = "https://github.com/PushpenderIndia/Sinister"><img align="center" src="https://github-readme-stats-dusky-three-43.vercel.app/api/pin/?username=PushpenderIndia&repo=Sinister" /></a> 
 </p>
 </details>
 

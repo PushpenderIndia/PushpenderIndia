@@ -84,8 +84,8 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
  <summary><b>GitHub Stats</b> </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
+  <img src = "https://github-readme-stats-dusky-three-43.vercel.app/api?username=PushpenderIndia&show_icons=true&line_height=40">
+  <img src = "https://github-readme-stats-dusky-three-43.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
 </p>
 </details>
 

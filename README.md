@@ -8,14 +8,17 @@ I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Develop
 
 I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than `25k subscribers` where I teach `Cyber Security` & `Ethical Hacking` 
 
-- 🏆 `10x Global Hackathon Winner` & `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
+- 🏆 `10x Global Hackathon Winner` (e.g. [Amazon Smbhav](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s), [Intel](https://github.com/PushpenderIndia/Achievements/blob/main/Cert/Intel_Redhat_International_Hackathon.pdf), [GSMA](https://github.com/PushpenderIndia/Achievements/blob/main/Cert/GSMA_And_Nokia_Open_Gateway_Hackathon_2025.jpeg)) : [Certificates](https://github.com/PushpenderIndia/Achievements)
+- 🏆 `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)
 - 🏆 Top Rated Freelancer - `Top 10% talent` on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
-- 🏅 Maintained `100% JSS` (Job Success Score) on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
-- 🏅 Worked with `50+ Clients` (43+ on Upwork & Other Direct Clients)
-- 🏅 Worked `711+ Hours` on [Upwork Hourly Contracts](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) 
-- 🏅 Always `Received 5 ⭐ Review`
-- 🏅 Worked with `FORTUNE 500 Companies` such as `Microsoft` as Independent Freelancer
-- 🏅 Unstop Talend Award 2025 & 2026 Winner: [Certificates](https://github.com/PushpenderIndia/Achievements)
+    - 🏅 Maintained `100% JSS` (Job Success Score) on [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
+    - 🏅 Worked with `50+ Clients` (43+ on Upwork & Other Direct Clients)
+    - 🏅 Worked `711+ Hours` on [Upwork Hourly Contracts](https://www.upwork.com/freelancers/~01ee80593d3e8f9387) 
+    - 🏅 Always `Received 5 ⭐ Review`
+    - 🏅 Worked with `FORTUNE 500 Companies` such as `Microsoft` as Independent Freelancer
+- 🏆 Unstop Talent Award Winner
+    - Rank #19 @ [Unstoppable Leaders Award 2025](https://unstop.com/awards/u/pushpender-singh-3138055/2025)
+    - Rank #3 @ [Unstoppable Leaders Award 2026](https://unstop.com/awards/u/pushpender-singh-3138055/2026)
 - 👨🏽‍💻 [WordPress](https://profiles.wordpress.org/pushpenderindia/) Core Contributor - [WordPress Release v6.8 Contributors list](https://lnkd.in/gJqBq4-W)
 - 👨🏽‍💻 Amazon ML Summer School 2024: [Acknowledgement Mail](https://github.com/PushpenderIndia/Achievements/blob/main/Cert/AmazonMLSS.png)
 - 👨🏽‍💻 Expert on [Codeforces](https://codeforces.com/profile/pushpenderindia)

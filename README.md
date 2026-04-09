@@ -91,13 +91,3 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
   <img src = "https://github-readme-stats-dusky-three-43.vercel.app/api/top-langs/?username=PushpenderIndia&hide=css,shell">
 </p>
 </details>
-
-<details open> 
- <summary><b>Famous Repos</b></summary>
- <br> 
-<p align = "center">
-  <a href = "https://github.com/PushpenderIndia/thorse"><img align="center"  src="https://github-readme-stats-dusky-three-43.vercel.app/api/pin/?username=PushpenderIndia&repo=thorse" /></a> 
-  <a href = "https://github.com/PushpenderIndia/Sinister"><img align="center" src="https://github-readme-stats-dusky-three-43.vercel.app/api/pin/?username=PushpenderIndia&repo=Sinister" /></a> 
-</p>
-</details>
-

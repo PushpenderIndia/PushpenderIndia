@@ -24,7 +24,6 @@ I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E44
 - 👨🏽‍💻 Expert on [Codeforces](https://codeforces.com/profile/pushpenderindia)
 - 👨🏽‍💻 Total DSA Questions [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushu_singh&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushu_singh/) & [![](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Contest%20Rating&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpushu_singh&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/pushu_singh/) on [Leetcode](https://leetcode.com/pushu_singh)
 - 👨🏽‍💻  `Reputation Points`, `Bronze & Silver Badge Count` on [Stackoverflow](https://stackoverflow.com/users/12084352/pushpender-singh): <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=12084352" />
-- 👨‍💻 How to **Hire me** : [Upwork](https://www.upwork.com/freelancers/~01ee80593d3e8f9387)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 

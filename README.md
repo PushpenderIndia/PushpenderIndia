@@ -4,9 +4,9 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a `Ethical Hacker`, `Web`, `Android`, `Machine Learning` & `Software Developer` who just love to code in Python.
+I'm a `Software Developer` with hands-on experience in `Web`, `Android`, `Machine Learning`
 
-I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than `25k subscribers` where I teach `Cyber Security` & `Ethical Hacking` 
+I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than `25k subscribers` where I teach `Cyber Security` 
 
 - 🏆 `10x Global Hackathon Winner` (e.g. [Amazon Smbhav](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s), [Intel](https://github.com/PushpenderIndia/Achievements/blob/main/Cert/Intel_Redhat_International_Hackathon.pdf), [GSMA](https://github.com/PushpenderIndia/Achievements/blob/main/Cert/GSMA_And_Nokia_Open_Gateway_Hackathon_2025.jpeg)) : [Certificates](https://github.com/PushpenderIndia/Achievements)
 - 🏆 `1x CTF (Capture The Flag) Winner` : [Certificates](https://github.com/PushpenderIndia/Achievements)

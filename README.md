@@ -4,7 +4,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://github.com/PushpenderIndia/PushpenderIndia/blob/master/media/coding-gif.gif"></p>
 
-I'm a `Software Developer` with hands-on experience in `Web`, `Android`, `Machine Learning`
+I'm a `Software Engineer` with hands-on experience in `Web`, `Android`, `Machine Learning`
 
 I've a <img src = "https://img.shields.io/badge/InfoSec-YouTube%20Channel-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&style=plastic"> with more than `25k subscribers` where I teach `Cyber Security` 
 
